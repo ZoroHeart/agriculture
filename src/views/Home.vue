@@ -24,6 +24,7 @@
     <div class="main">
       <div class="aside">
         <ul class="menu">
+          <li><router-link :to="{name: 'farmMap'}"><i class="el-icon-ship"></i>生产地图</router-link></li>
           <li><router-link :to="{name: 'soilManage'}"><i class="el-icon-ship"></i> 地块管理</router-link></li>
           <li><router-link :to="{name: 'farmMachinery'}"><i class="el-icon-box"></i> 农机管理</router-link></li>
           <li><router-link :to="{name: 'personalDetails'}"><i class="el-icon-s-data"></i> 个人信息</router-link></li>
@@ -125,12 +126,13 @@ export default {
 }
 .main{
   width:100%;
-  height:calc(100% - 85px);
+  height:calc(100% - 65px);
   background:#f0f3fa;
   display:flex;
   justify-content:space-between;
 }
-.aside{width:8%;
+.aside{
+  width:8.9%;
   background:#293255;
 }
 .menu>li{

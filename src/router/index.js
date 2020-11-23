@@ -35,6 +35,11 @@ export default new Router({
       component:Home,
       children: [
         {
+          path: '/home/farmMap',//地图
+          name: 'farmMap',
+          component: resolve => require(['../views/farmMap.vue'],resolve)
+        },
+        {
           path: '/home/soilManage',//地块管理
           name: 'soilManage',
           component: resolve => require(['../views/soilManage.vue'],resolve)
