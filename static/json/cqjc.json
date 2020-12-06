@@ -1,0 +1,49 @@
+{
+  "data":[
+    {
+      "id": 0,
+      "name": "TPCB-II-C太阳能虫情测报灯",
+      "type": "kp2202",
+      "durableYears": "20",
+      "companies": "",
+      "LastUseDate": "2010-07-08 09:23:25",
+      "recentUser": "王二"
+    },
+    {
+      "id": 1,
+      "name": "TPCB-III-D太阳能虫情测报灯",
+      "type": "kp2202",
+      "durableYears": "20",
+      "companies": "",
+      "LastUseDate": "2010-07-08 09:23:25",
+      "recentUser": "王二"
+    },
+    {
+      "id": 2,
+      "name": "OK-BZ1孢子捕捉器",
+      "type": "kp2202",
+      "durableYears": "20",
+      "companies": "",
+      "LastUseDate": "2010-07-08 09:23:25",
+      "recentUser": "王二"
+    },
+    {
+      "id": 3,
+      "name": "OK-CBII病虫测报工具箱",
+      "type": "kp2202",
+      "durableYears": "20",
+      "companies": "",
+      "LastUseDate": "2010-07-08 09:23:25",
+      "recentUser": "王二"
+    },
+    {
+      "id": 4,
+      "name": "孢子捕捉器",
+      "type": "kp2202",
+      "durableYears": "20",
+      "companies": "",
+      "LastUseDate": "2010-07-08 09:23:25",
+      "recentUser": "王二"
+    }
+  ]
+}

@@ -27,6 +27,8 @@
           <li><router-link :to="{name: 'farmMap'}"><i class="el-icon-ship"></i>生产地图</router-link></li>
           <li><router-link :to="{name: 'soilManage'}"><i class="el-icon-ship"></i> 地块管理</router-link></li>
           <li><router-link :to="{name: 'farmMachinery'}"><i class="el-icon-box"></i> 农机管理</router-link></li>
+          <li><router-link :to="{name: 'sfytj'}"><i class="el-icon-box"></i> 水肥一体机</router-link></li>
+          <li><router-link :to="{name: 'wormMonitor'}"><i class="el-icon-box"></i> 虫情监测</router-link></li>
           <li><router-link :to="{name: 'personalDetails'}"><i class="el-icon-s-data"></i> 个人信息</router-link></li>
         </ul>
 

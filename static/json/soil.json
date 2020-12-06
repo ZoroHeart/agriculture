@@ -2,6 +2,7 @@
   "total": 40,
   "data":[
     {
+      "id": 0,
       "soilName": "1号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",
@@ -10,6 +11,7 @@
       "associatedCamera": "0"
     },
     {
+      "id": 1,
       "soilName": "2号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",
@@ -18,6 +20,7 @@
       "associatedCamera": "0"
     },
     {
+      "id": 2,
       "soilName": "3号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",
@@ -26,6 +29,7 @@
       "associatedCamera": "0"
     },
     {
+      "id": 3,
       "soilName": "4号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",
@@ -34,6 +38,7 @@
       "associatedCamera": "0"
     },
     {
+      "id": 4,
       "soilName": "5号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",
@@ -42,6 +47,7 @@
       "associatedCamera": "0"
     },
     {
+      "id": 5,
       "soilName": "6号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",
@@ -50,6 +56,7 @@
       "associatedCamera": "0"
     },
     {
+      "id": 6,
       "soilName": "7号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",
@@ -58,6 +65,7 @@
       "associatedCamera": "0"
     },
     {
+      "id": 7,
       "soilName": "8号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",
@@ -66,6 +74,7 @@
       "associatedCamera": "0"
     },
     {
+      "id": 8,
       "soilName": "9号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",
@@ -74,6 +83,7 @@
       "associatedCamera": "0"
     },
     {
+      "id": 9,
       "soilName": "10号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",
@@ -82,6 +92,7 @@
       "associatedCamera": "0"
     },
     {
+      "id": 10,
       "soilName": "11号地块",
       "createTime": "2010-07-08 09:23:25",
       "growPlants": "玉米",

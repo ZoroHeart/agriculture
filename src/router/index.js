@@ -47,6 +47,14 @@ export default new Router({
           path: '/home/farmMachinery',//农机管理
           name: 'farmMachinery',
           component: resolve => require(['../views/farmMachinery.vue'],resolve)
+        },{
+          path: '/home/sfytj',//水肥一体机
+          name: 'sfytj',
+          component: resolve => require(['../views/sfytj.vue'],resolve)
+        },{
+          path: '/home/wormMonitor',//虫情监测
+          name: 'wormMonitor',
+          component: resolve => require(['../views/wormMonitor.vue'],resolve)
         },
         {
           path: '/home/personalDetails',//个人信息
